@@ -1,4 +1,0 @@
----
-title: Course Motto
----
-
